@@ -1,5 +1,5 @@
-from nsga_vrp.NSGA2_vrp import *
 import argparse
+from nsga_vrp.NSGA2_vrp import *
 
 def main():
 
